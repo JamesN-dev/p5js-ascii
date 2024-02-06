@@ -3,7 +3,7 @@
 A simple p5.js project that converts waveform animations to ASCII art. Still very much a work in progress.
 
 # Status
-Waveform animations working and being converted to ascii. They seem to only be using half the canvas. Currently workingon fixing position issues. Full inputs work for waveforms 1 and 2. only wave distortion working for waveform 3. 
+Waveform animations working and being converted to ascii.Currently workingon fixing position issues. Full inputs work for waveforms 1 and 2. only wave distortion working for waveform 3. 
 
 Pixel Sort only visible with a low pixel density configuration. Trying other sorting algorithms. If you want to see it now, reduce pixel density to 0.5 or lower. 
 
@@ -26,7 +26,7 @@ Currently uses a few minor user inputs from main keyboard only (no numpad yet)
 # Waveforms
    1. Sine (Full Control)
    2. Triangle (Full Control)
-   3. Dynamic Wave (Full Control)
+   3. Dynamic Wave (Wave Distortion only)
    4. .... Coming soon
 
 
