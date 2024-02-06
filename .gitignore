@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# macOS resource fork files
+._*
+
+# VSCode-specific files and folders
+.vscode/
+.settings/
