@@ -19,7 +19,7 @@ let customFont;
 //   customFont1 = loadFont('fonts/C64_Pro_Mono-STYLE.ttf');
 // }
 
-//const charset = "╭╭░░░░░╮╮▇▚▚▚▞▞▇█▌▐▄▀░▒▓▓ "; // From darker to lighter
+const charset = "╭╭░░░░░╮╮▇▚▚▚▞▞▇█▌▐▄▀░▒▓▓ "; // From darker to lighter
 
 function setup() {
    createCanvas(600, 600);
